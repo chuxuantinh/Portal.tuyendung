@@ -1,0 +1,222 @@
+[29-Jan-2018 10:31:27 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[29-Jan-2018 10:51:45 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[29-Jan-2018 14:29:41 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[29-Jan-2018 14:35:07 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.flv.php on line 76
+[29-Jan-2018 16:47:35 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[29-Jan-2018 21:25:37 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[30-Jan-2018 05:51:51 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[30-Jan-2018 06:19:29 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[30-Jan-2018 06:19:59 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[17-May-2018 22:18:21 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[18-May-2018 18:09:42 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[18-May-2018 18:37:18 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[18-May-2018 18:47:38 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[18-May-2018 18:51:05 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[18-May-2018 19:41:10 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[19-May-2018 05:16:50 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[19-May-2018 05:20:32 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[19-May-2018 05:28:05 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[19-May-2018 05:31:52 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[19-May-2018 05:39:26 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[19-May-2018 05:43:13 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[19-May-2018 12:35:36 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[19-May-2018 12:39:23 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[19-May-2018 12:46:57 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[19-May-2018 12:50:44 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[19-May-2018 13:02:12 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[20-May-2018 03:05:46 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[20-May-2018 03:09:33 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[20-May-2018 03:20:54 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[20-May-2018 03:24:41 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[20-May-2018 03:32:15 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[24-May-2018 07:35:49 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[24-May-2018 08:47:16 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[24-May-2018 12:11:47 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[24-May-2018 12:12:36 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[29-May-2018 15:33:27 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[29-May-2018 21:52:53 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[12-Jul-2018 07:16:30 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.flv.php on line 76
+[12-Jul-2018 08:34:13 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[12-Jul-2018 19:20:45 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[13-Jul-2018 12:11:22 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[13-Jul-2018 12:17:08 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[13-Jul-2018 12:18:14 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[13-Jul-2018 12:25:15 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[13-Jul-2018 12:29:00 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[13-Jul-2018 12:29:55 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[13-Jul-2018 12:39:35 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[13-Jul-2018 12:40:35 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[13-Jul-2018 12:44:58 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[13-Jul-2018 12:50:04 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[13-Jul-2018 12:55:35 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[13-Jul-2018 13:02:50 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.flv.php on line 76
+[13-Jul-2018 13:13:19 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[13-Jul-2018 21:43:29 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[13-Jul-2018 21:48:34 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[13-Jul-2018 21:48:48 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[13-Jul-2018 21:56:33 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[13-Jul-2018 22:03:25 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.flv.php on line 76
+[13-Jul-2018 22:09:31 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[14-Jul-2018 00:58:07 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[14-Jul-2018 01:17:08 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[14-Jul-2018 01:22:30 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[14-Jul-2018 01:24:15 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[14-Jul-2018 01:37:51 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[14-Jul-2018 03:40:53 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[14-Jul-2018 04:02:18 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[14-Jul-2018 04:07:17 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[14-Jul-2018 04:11:13 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[14-Jul-2018 06:55:18 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[14-Jul-2018 06:57:44 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[14-Jul-2018 06:57:57 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[14-Jul-2018 07:00:26 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[14-Jul-2018 07:04:28 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[14-Jul-2018 11:03:06 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[14-Jul-2018 11:07:35 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[14-Jul-2018 11:12:55 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[14-Jul-2018 11:45:16 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[14-Jul-2018 13:37:15 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 19
+[14-Jul-2018 13:37:37 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[14-Jul-2018 13:42:32 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 26
+[14-Jul-2018 15:07:43 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[14-Jul-2018 23:32:55 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[15-Jul-2018 02:55:04 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 22
+[15-Jul-2018 02:56:20 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[15-Jul-2018 03:00:56 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[15-Jul-2018 03:01:14 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[15-Jul-2018 03:17:05 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 18
+[15-Jul-2018 03:22:26 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[15-Jul-2018 13:58:35 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[15-Jul-2018 20:35:27 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[16-Jul-2018 21:45:35 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[17-Jul-2018 02:24:56 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[17-Jul-2018 05:28:05 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[30-Jul-2018 02:12:50 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 19
+[16-Oct-2018 13:39:50 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[04-Nov-2018 20:25:56 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[20-Nov-2018 09:52:56 America/Denver] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[21-Nov-2018 12:00:47 America/Denver] PHP Fatal error:  Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[10-Dec-2018 00:39:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[10-Dec-2018 00:49:07 America/Chicago] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[18-Feb-2019 07:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[28-Jun-2019 00:49:46 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[30-Jun-2019 02:12:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[30-Jun-2019 09:31:43 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.riff.php on line 26
+[30-Jun-2019 09:42:55 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.mp3.php on line 25
+[30-Jun-2019 10:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[30-Jun-2019 11:43:52 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[30-Jun-2019 18:19:18 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[30-Jun-2019 19:56:02 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 12:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 13:34:53 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 20:40:43 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 22:02:15 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 23:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[01-Jul-2019 23:27:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[02-Jul-2019 00:38:22 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[02-Jul-2019 02:17:57 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.flac.php on line 18
+[24-Aug-2019 18:16:26 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[25-Aug-2019 00:27:19 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[25-Aug-2019 05:38:45 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[25-Aug-2019 05:43:01 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[26-Aug-2019 10:18:22 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[26-Aug-2019 14:01:55 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[27-Aug-2019 06:56:24 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[27-Aug-2019 08:07:01 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 18
+[27-Aug-2019 08:07:16 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 18
+[27-Aug-2019 10:57:59 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[27-Aug-2019 11:05:44 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[28-Aug-2019 06:18:23 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[28-Aug-2019 09:14:38 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[28-Aug-2019 09:39:04 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[28-Aug-2019 09:48:43 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.apetag.php on line 17
+[28-Aug-2019 18:56:36 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 18
+[29-Aug-2019 19:11:46 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 21
+[29-Aug-2019 22:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ogg.php on line 17
+[29-Aug-2019 22:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.asf.php on line 17
+[30-Aug-2019 03:52:00 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v2.php on line 17
+[30-Aug-2019 03:56:31 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Aug-2019 04:23:55 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.tag.id3v1.php on line 18
+[30-Aug-2019 04:27:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[11-Sep-2019 17:10:54 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/ID3/module.audio.dts.php on line 21

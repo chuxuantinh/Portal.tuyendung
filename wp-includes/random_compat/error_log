@@ -1,0 +1,3 @@
+[10-Dec-2018 03:30:29 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home4/eonfivon/public_html/tuyendung/wp-includes/random_compat/random_bytes_libsodium_legacy.php on line 86
+[14-Dec-2018 20:51:19 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home4/eonfivon/public_html/tuyendung/wp-includes/random_compat/random_bytes_openssl.php on line 83
+[15-Dec-2018 01:02:52 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home4/eonfivon/public_html/tuyendung/wp-includes/random_compat/random_bytes_libsodium.php on line 86

@@ -1,0 +1,330 @@
+[26-Nov-2017 19:38:37 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-feed.php on line 9
+[26-Nov-2017 20:13:11 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-comment.php on line 17
+[27-Nov-2017 02:32:20 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home4/eonfivon/public_html/tuyendung/wp-includes/default-filters.php on line 17
+[27-Nov-2017 04:42:12 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-setting.php on line 955
+[27-Nov-2017 04:42:12 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-setting.php on line 955
+[27-Nov-2017 04:42:12 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-filter-setting.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-setting.php on line 955
+[27-Nov-2017 04:42:12 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-filter-setting.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-setting.php on line 955
+[27-Nov-2017 12:56:57 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/locale.php on line 10
+[27-Nov-2017 15:55:16 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[27-Nov-2017 15:55:16 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[27-Nov-2017 15:55:16 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[27-Nov-2017 15:55:16 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[28-Nov-2017 04:42:17 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom-comments.php on line 8
+[28-Nov-2017 05:42:33 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-snoopy.php on line 6
+[28-Nov-2017 06:38:10 America/Denver] PHP Fatal error:  Class 'SimplePie_File' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-simplepie-file.php on line 17
+[28-Nov-2017 12:52:06 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-panel.php on line 399
+[28-Nov-2017 12:52:06 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-panel.php on line 399
+[28-Nov-2017 12:52:06 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-panel.php on line 399
+[28-Nov-2017 12:52:06 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-panel.php on line 399
+[28-Nov-2017 13:34:17 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-default-filters.php on line 16
+[28-Nov-2017 14:43:22 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/registration.php on line 7
+[28-Nov-2017 14:52:38 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[28-Nov-2017 14:52:38 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[28-Nov-2017 14:52:38 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[28-Nov-2017 14:52:38 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[28-Nov-2017 16:11:22 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:11:22 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:11:22 America/Denver] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:11:22 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:22:02 America/Denver] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[28-Nov-2017 16:57:29 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:57:29 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:57:29 America/Denver] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 16:57:29 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[28-Nov-2017 19:37:00 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page-dropdown.php on line 17
+[28-Nov-2017 21:37:44 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home4/eonfivon/public_html/tuyendung/wp-includes/vars.php on line 23
+[28-Nov-2017 22:04:19 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-control.php on line 681
+[28-Nov-2017 22:04:19 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-control.php on line 681
+[28-Nov-2017 22:04:19 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-color-control.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-control.php on line 681
+[28-Nov-2017 22:04:19 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-color-control.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-control.php on line 681
+[29-Nov-2017 02:03:35 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[29-Nov-2017 02:03:35 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[29-Nov-2017 02:03:35 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[29-Nov-2017 02:03:35 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[29-Nov-2017 03:04:30 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-comment.php on line 17
+[29-Nov-2017 03:39:57 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rdf.php on line 8
+[30-Nov-2017 13:51:09 America/Denver] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[30-Nov-2017 15:17:40 America/Denver] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-image-editor-imagick.php on line 17
+[30-Nov-2017 18:57:03 America/Denver] PHP Fatal error:  Class 'WP_Dependencies' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class.wp-scripts.php on line 18
+[30-Nov-2017 19:00:09 America/Denver] PHP Fatal error:  Class 'WP_Dependencies' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class.wp-scripts.php on line 18
+[03-Dec-2017 12:09:21 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom-comments.php on line 8
+[31-Dec-2017 13:58:32 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[31-Dec-2017 13:58:32 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[31-Dec-2017 13:58:32 America/Denver] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[31-Dec-2017 13:58:32 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[31-Dec-2017 16:47:34 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2-comments.php on line 8
+[31-Dec-2017 18:20:37 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:20:37 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:20:37 America/Denver] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:20:37 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:54:10 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:54:10 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:54:10 America/Denver] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[31-Dec-2017 18:54:10 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[10-Jan-2018 06:17:42 America/Denver] PHP Fatal error:  Class 'Requests_Hooks' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-hooks.php on line 17
+[29-Jan-2018 17:45:15 America/Denver] PHP Fatal error:  Class 'Requests_Hooks' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-hooks.php on line 17
+[29-Jan-2018 21:05:17 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[29-Jan-2018 21:05:17 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[29-Jan-2018 21:05:17 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[29-Jan-2018 21:05:17 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[29-Jan-2018 22:42:50 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[29-Jan-2018 22:42:50 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[29-Jan-2018 22:42:50 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[29-Jan-2018 22:42:50 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[29-Jan-2018 22:57:17 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-nav-menu.php on line 17
+[30-Jan-2018 00:09:15 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-snoopy.php on line 6
+[30-Jan-2018 15:19:20 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page-dropdown.php on line 17
+[31-Jan-2018 23:55:20 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php on line 1486
+[01-Feb-2018 03:35:36 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-feed.php on line 9
+[01-Feb-2018 04:51:29 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-feed.php on line 9
+[03-Feb-2018 03:28:44 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[03-Feb-2018 03:28:44 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[03-Feb-2018 03:28:44 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[03-Feb-2018 03:28:44 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[06-Feb-2018 14:06:36 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[06-Feb-2018 14:06:36 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[06-Feb-2018 14:06:36 America/Denver] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[06-Feb-2018 14:06:36 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[11-Feb-2018 20:24:59 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/rss-functions.php on line 8
+[05-Mar-2018 12:13:38 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom.php on line 8
+[05-Mar-2018 19:34:54 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-ixr-client.php on line 9
+[05-Mar-2018 21:27:09 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-category.php on line 17
+[05-Mar-2018 21:33:27 America/Denver] PHP Fatal error:  Call to undefined function is_main_site() in /home4/eonfivon/public_html/tuyendung/wp-includes/update.php on line 711
+[05-Mar-2018 22:00:31 America/Denver] PHP Fatal error:  Class 'Text_Diff_Renderer_inline' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-text-diff-renderer-inline.php on line 16
+[05-Mar-2018 22:01:25 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-xmlrpc-server.php on line 23
+[05-Mar-2018 23:53:18 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-category-dropdown.php on line 17
+[06-Mar-2018 01:20:49 America/Denver] PHP Fatal error:  Class 'WP_Session_Tokens' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-user-meta-session-tokens.php on line 15
+[06-Mar-2018 03:11:47 America/Denver] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-image-editor-gd.php on line 17
+[06-Mar-2018 08:23:58 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/embed-template.php on line 11
+[06-Mar-2018 09:56:23 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-nav-menu.php on line 17
+[06-Mar-2018 09:57:28 America/Denver] PHP Fatal error:  Class 'WP_Dependencies' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class.wp-styles.php on line 18
+[06-Mar-2018 10:43:02 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/registration-functions.php on line 7
+[06-Mar-2018 14:15:52 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/session.php on line 8
+[08-Mar-2018 13:20:41 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-default-filters.php on line 16
+[08-Mar-2018 13:55:33 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2.php on line 8
+[08-Mar-2018 13:57:10 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[08-Mar-2018 13:57:10 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[08-Mar-2018 13:57:10 America/Denver] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[08-Mar-2018 13:57:10 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[08-Mar-2018 15:56:21 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[08-Mar-2018 15:56:21 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[08-Mar-2018 15:56:21 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[08-Mar-2018 15:56:21 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[15-Mar-2018 20:29:07 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/compat.php on line 435
+[15-Mar-2018 20:29:07 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/compat.php on line 435
+[15-Mar-2018 20:29:07 America/Denver] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/compat.php on line 435
+[15-Mar-2018 20:29:07 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/compat.php on line 435
+[15-Mar-2018 21:00:10 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-category.php on line 17
+[15-Mar-2018 22:11:47 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-xmlrpc-server.php on line 23
+[15-Mar-2018 23:29:53 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-xmlrpc-server.php on line 23
+[16-Mar-2018 00:56:58 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss.php on line 8
+[16-Mar-2018 03:35:57 America/Denver] PHP Fatal error:  Call to undefined function is_main_site() in /home4/eonfivon/public_html/tuyendung/wp-includes/update.php on line 711
+[16-Mar-2018 06:58:49 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom.php on line 8
+[16-Mar-2018 07:05:22 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/registration-functions.php on line 7
+[16-Mar-2018 08:29:30 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/registration-functions.php on line 7
+[16-Mar-2018 08:29:43 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/embed-template.php on line 11
+[16-Mar-2018 10:32:40 America/Denver] PHP Fatal error:  Class 'SimplePie_File' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-simplepie-file.php on line 17
+[16-Mar-2018 12:58:57 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-category-dropdown.php on line 17
+[17-May-2018 07:11:43 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home4/eonfivon/public_html/tuyendung/wp-includes/vars.php on line 23
+[21-May-2018 03:37:52 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[21-May-2018 03:37:52 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[21-May-2018 03:37:52 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-themes-section.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[21-May-2018 03:37:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-themes-section.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-customize-section.php on line 397
+[21-May-2018 12:07:52 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home4/eonfivon/public_html/tuyendung/wp-includes/template-loader.php on line 28
+[29-May-2018 08:23:34 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/rss.php on line 19
+[26-Jun-2018 21:58:10 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[26-Jun-2018 21:58:10 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[26-Jun-2018 21:58:10 America/Denver] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[26-Jun-2018 21:58:10 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[27-Jun-2018 07:08:10 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[27-Jun-2018 07:08:10 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[27-Jun-2018 07:08:10 America/Denver] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[27-Jun-2018 07:08:10 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[06-Jul-2018 23:20:49 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[06-Jul-2018 23:20:49 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[06-Jul-2018 23:20:49 America/Denver] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[06-Jul-2018 23:20:49 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[07-Jul-2018 08:08:19 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home4/eonfivon/public_html/tuyendung/wp-includes/template-loader.php on line 28
+[07-Jul-2018 11:08:23 America/Denver] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-feed-cache.php on line 17
+[08-Jul-2018 06:32:22 America/Denver] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-feed-cache.php on line 17
+[08-Jul-2018 06:34:07 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php on line 1486
+[08-Jul-2018 10:44:49 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 10:44:49 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 10:44:49 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 10:44:49 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 12:26:44 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page.php on line 17
+[08-Jul-2018 16:02:14 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php on line 1486
+[08-Jul-2018 17:22:37 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 17:22:37 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 17:22:37 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 17:22:37 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[08-Jul-2018 17:59:25 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17
+[08-Jul-2018 21:02:17 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page.php on line 17
+[09-Jul-2018 00:09:59 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home4/eonfivon/public_html/tuyendung/wp-includes/template-loader.php on line 28
+[09-Jul-2018 00:19:55 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php on line 1486
+[09-Jul-2018 00:26:47 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[09-Jul-2018 00:26:47 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[09-Jul-2018 00:26:47 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[09-Jul-2018 00:26:47 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[09-Jul-2018 01:17:48 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page.php on line 17
+[09-Jul-2018 03:01:18 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17
+[10-Jul-2018 16:05:44 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[10-Jul-2018 16:05:44 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[10-Jul-2018 16:05:44 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[10-Jul-2018 16:05:44 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[11-Jul-2018 01:56:52 America/Denver] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17
+[12-Jul-2018 06:03:45 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[12-Jul-2018 06:03:45 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[12-Jul-2018 06:03:45 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[12-Jul-2018 06:03:45 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[03-Jul-2019 16:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/rss.php on line 19
+[03-Jul-2019 16:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home4/eonfivon/public_html/tuyendung/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/vars.php on line 23
+[03-Jul-2019 16:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php:1486
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/media.php on line 1486
+[03-Jul-2019 16:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/locale.php on line 10
+[03-Jul-2019 16:04:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/session.php on line 8
+[03-Jul-2019 16:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home4/eonfivon/public_html/tuyendung/wp-includes/update.php:711
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/update.php on line 711
+[03-Jul-2019 16:04:27 UTC] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[03-Jul-2019 16:04:27 UTC] PHP Warning:  require(ABSPATHWPINC/Text/Diff.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[03-Jul-2019 16:04:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Text/Diff.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/wp-diff.php on line 13
+[03-Jul-2019 16:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss.php on line 8
+[03-Jul-2019 16:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rdf.php on line 8
+[03-Jul-2019 16:04:37 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[03-Jul-2019 16:04:37 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[03-Jul-2019 16:04:37 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/functions.php on line 8
+[03-Jul-2019 16:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2.php on line 8
+[03-Jul-2019 16:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-atom.php on line 8
+[03-Jul-2019 16:04:43 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[03-Jul-2019 16:04:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-settings.php on line 26
+[03-Jul-2019 16:04:45 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[03-Jul-2019 16:04:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-IXR.php on line 42
+[03-Jul-2019 16:04:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-feed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/class-feed.php on line 9
+[03-Jul-2019 16:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/registration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/registration.php on line 7
+[03-Jul-2019 16:04:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[03-Jul-2019 16:04:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[03-Jul-2019 16:04:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-http.php on line 11
+[03-Jul-2019 16:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/class-snoopy.php on line 6
+[03-Jul-2019 16:05:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/rss-functions.php on line 8
+[03-Jul-2019 16:05:06 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[03-Jul-2019 16:05:06 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[03-Jul-2019 16:05:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/class-simplepie.php on line 5
+[03-Jul-2019 16:05:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 16:05:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 16:05:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 16:05:11 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class.wp-scripts.php on line 18
+[03-Jul-2019 16:05:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-page.php on line 17
+[03-Jul-2019 16:05:19 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-walker-nav-menu.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[03-Jul-2019 16:05:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-walker-nav-menu.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/nav-menu-template.php on line 11
+[03-Jul-2019 16:05:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/feed-rss2-comments.php on line 8
+[03-Jul-2019 16:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/eonfivon/public_html/tuyendung/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/embed-template.php on line 11
+[03-Jul-2019 16:05:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home4/eonfivon/public_html/tuyendung/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/template-loader.php on line 28
+[03-Jul-2019 16:05:32 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class.wp-styles.php on line 18
+[03-Jul-2019 16:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home4/eonfivon/public_html/tuyendung/wp-includes/default-filters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/default-filters.php on line 17
+[03-Jul-2019 16:05:37 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[03-Jul-2019 16:05:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/default-widgets.php on line 11
+[03-Jul-2019 16:05:49 UTC] PHP Fatal error:  Class 'Walker' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-walker-nav-menu.php on line 17
+[03-Jul-2019 16:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/eonfivon/public_html/tuyendung/wp-includes/ms-default-filters.php on line 16
+[03-Jul-2019 17:35:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 17:35:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 17:35:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 18:50:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 18:50:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 18:50:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[03-Jul-2019 21:29:56 UTC] PHP Fatal error:  Class 'Text_Diff_Renderer' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-text-diff-renderer-table.php on line 16
+[03-Jul-2019 21:58:19 UTC] PHP Fatal error:  Class 'SimplePie_Cache' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-feed-cache.php on line 17
+[04-Jul-2019 00:20:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 00:20:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 00:20:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 01:07:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 01:07:35 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 01:07:35 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 02:40:58 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 02:40:58 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 02:40:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 03:49:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 03:49:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 03:49:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 05:09:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 05:09:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 05:09:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 06:49:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 06:49:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 06:49:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 20:39:45 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 20:39:45 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[04-Jul-2019 20:39:45 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 02:08:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 02:08:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 02:08:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 08:50:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 08:50:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 08:50:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 11:12:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 11:12:25 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 11:12:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 14:57:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 14:57:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 14:57:48 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 16:06:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 16:06:23 UTC] PHP Warning:  require(ABSPATHWPINC/class-wp-dependency.php): failed to open stream: No such file or directory in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[05-Jul-2019 16:06:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-wp-dependency.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home4/eonfivon/public_html/tuyendung/wp-includes/script-loader.php on line 20
+[15-Jul-2019 00:12:20 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17
+[16-Jul-2019 19:44:51 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17
+[17-Jul-2019 03:55:12 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/class-wp-http-requests-response.php on line 17

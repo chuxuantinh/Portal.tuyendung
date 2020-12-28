@@ -1,0 +1,16 @@
+[03-Apr-2018 04:41:58 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[03-Apr-2018 04:42:48 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[18-May-2018 13:51:40 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[19-May-2018 07:59:25 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[19-May-2018 14:32:54 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[19-May-2018 15:06:56 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[19-May-2018 21:02:34 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[20-May-2018 13:30:02 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[13-Jul-2018 12:23:36 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[13-Jul-2018 13:21:25 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[13-Jul-2018 22:11:26 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[14-Jul-2018 00:55:30 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[08-Sep-2018 04:32:29 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[08-Sep-2018 08:01:29 America/Denver] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[30-Jan-2019 03:25:08 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[30-Jan-2019 04:11:03 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

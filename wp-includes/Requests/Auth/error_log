@@ -1,0 +1,5 @@
+[27-May-2018 07:26:29 America/Denver] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Auth/Basic.php on line 18
+[12-Sep-2018 11:40:41 America/Denver] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Auth/Basic.php on line 18
+[16-Oct-2018 13:40:03 America/Denver] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Auth/Basic.php on line 18
+[25-Aug-2019 07:49:13 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Auth/Basic.php on line 18
+[30-Aug-2019 04:41:14 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Auth/Basic.php on line 18

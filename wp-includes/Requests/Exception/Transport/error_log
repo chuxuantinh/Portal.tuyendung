@@ -1,0 +1,6 @@
+[29-May-2018 12:19:29 America/Denver] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[29-May-2018 18:15:22 America/Denver] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[21-Jun-2018 12:59:09 America/Denver] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[12-Jul-2018 15:31:54 America/Denver] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[16-Sep-2018 10:52:54 America/Denver] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[05-Sep-2019 14:28:18 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home4/eonfivon/public_html/tuyendung/wp-includes/Requests/Exception/Transport/cURL.php on line 3
